@@ -288,8 +288,11 @@ Example:
 Example used in this repository:
 
 ```
-![Project Image](https://pub-a0fe29ed512a454eb858af73b205c8eb.r2.dev/storage/thumbs/54/thumb1037.jpg)
+![Horse](https://pub-a0fe29ed512a454eb858af73b205c8eb.r2.dev/storage/thumbs/54/thumb1037.jpg)
+
 ```
+
+![Horse](https://pub-a0fe29ed512a454eb858af73b205c8eb.r2.dev/storage/thumbs/54/thumb1037.jpg)
 
 ---
 
@@ -327,5 +330,3 @@ Annotated tags are recommended when marking release versions of a project.
 
 Git stash temporarily saves uncommitted changes so the developer can switch branches without committing the work.
 The changes can later be restored using `git stash pop`.
-
-![Horse](https://pub-a0fe29ed512a454eb858af73b205c8eb.r2.dev/storage/thumbs/54/thumb1037.jpg)
